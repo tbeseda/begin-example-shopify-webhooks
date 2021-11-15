@@ -1,0 +1,14 @@
+{
+  "name": "shopify-webhooks",
+  "version": "0.0.1",
+  "description": "An Architect project for receiving and responding to Shopify webhooks",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/architect": "^9.3.1"
+  },
+  "dependencies": {
+    "@architect/functions": "^4.0.0"
+  }
+}
